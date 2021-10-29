@@ -1,0 +1,23 @@
+commit 74d1c479815a985c02066888b196e12b13f6109b
+Author: Daisuke2024 <camiloalexanderdiazs@gmail.com>
+Date:   Thu Oct 28 19:15:47 2021 -0500
+
+    cuarto cambio
+
+commit befa26700f21ab60b87481cc8ea68cf7807c55d1
+Author: Daisuke2024 <camiloalexanderdiazs@gmail.com>
+Date:   Thu Oct 28 19:15:06 2021 -0500
+
+    tercer cambio
+
+commit 58adf5a6a271eaf6805b24574ab60f8faefcef6f
+Author: Daisuke2024 <camiloalexanderdiazs@gmail.com>
+Date:   Thu Oct 28 17:22:00 2021 -0500
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+commit 48d287fa29f61d14d8cc13f4e7d7c44e5b0fbf27
+Author: Daisuke2024 <camiloalexanderdiazs@gmail.com>
+Date:   Thu Oct 28 17:14:54 2021 -0500
+
+    Este es el primer commit de este archivo
